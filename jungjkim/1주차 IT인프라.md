@@ -31,7 +31,7 @@
     - Public Cloud: 인터넷을 통해 다수에게 제공 (AWS, GCP, Azure)
     - Private Cloud: public cloud에서 이용자를 한정한 형태 (보안 높음)
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20IT%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A1%2019b1849f8abe4b6fb0be8ed2477a5d67/Untitled.png)
+![Untitled](1주차 IT인프라/Untitled.png)
 
 ## HTTPS
 
