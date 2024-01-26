@@ -22,7 +22,7 @@
     3. 웹 서버는 요청에 따른 처리 진행 후 그 결과를 웹 클라이언트에 HTTP 응답 메세지로 보냄
     4. 1~3번 반복으로 웹 사용이 가능해짐
     
-    ![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HTTP,%20DevTool,%20RestAPI%2031b5e43414714484abf0734eeffc998d/Untitled.png)
+    ![Untitled](images/http.png)
     
 
 ## HTTP Method
