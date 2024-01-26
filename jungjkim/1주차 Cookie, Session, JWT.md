@@ -45,7 +45,7 @@
 
 ## 쿠키 vs 세션
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Cookie,%20Session,%20JWT%2021f0c2746f714bbb9e7e9ed4ffeb0543/Untitled.png)
+![Untitled](session.png)
 
 - 세션도 쿠키를 사용해서 동작원리는 비슷
 
