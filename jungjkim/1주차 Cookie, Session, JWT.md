@@ -45,7 +45,7 @@
 
 ## 쿠키 vs 세션
 
-![Untitled](session.png)
+![Untitled](images/cookiesession.png)
 
 - 세션도 쿠키를 사용해서 동작원리는 비슷
 
@@ -55,7 +55,7 @@
 - Session과 달리 서버가 아닌 클라이언트에 저장
 - JWT 구조
 
-![Untitled](1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20Cookie,%20Session,%20JWT%2021f0c2746f714bbb9e7e9ed4ffeb0543/Untitled%201.png)
+![Untitled](images/session.png)
 
 - Header: JWT에서 사용할 type, hash algorithm 종류
 - Payload: 서버에서 첨부한 사용자 권한 정보와 데이터
